@@ -34,3 +34,6 @@ aws_3tier_architecture_terraform
 
 * MySQL DB
 
+
+![image](https://user-images.githubusercontent.com/56280489/229915733-03a3766e-5283-4d31-898a-b08881950905.png)
+
